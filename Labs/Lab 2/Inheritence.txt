@@ -1,0 +1,7 @@
+1. Multiple Inheritence is not allowed in Java.
+
+2. This is not possible.
+
+3. C++ does allow multiple inheritence.
+
+4. Interfaces solve the need for multiple inheritence, a java program can implement as many interfaces as it wants.
