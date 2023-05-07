@@ -1,0 +1,1 @@
+Welcome to CSUSM, this is round 0 of writing to a database
