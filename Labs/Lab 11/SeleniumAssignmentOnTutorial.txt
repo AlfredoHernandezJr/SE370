@@ -1,0 +1,42 @@
+California State University San Marcos
+CS/SE 370: Software Engineering
+Lab 11: Selenium assignment (not graded)
+
+Answer the following questions based on the first three chapters of the tutorial: https://www.simplilearn.com/tutorials/selenium-tutorial/what-is-selenium
+
+What programming language was used to create selenium?
+
+Jason Huggins, an engineer at ThoughtWorks, Chicago, found manual testing repetitive and boring. 
+He developed a JavaScript program to automate the testing of a web application, called JavaScriptTestRunner. 
+
+
+
+What advantage does automated testing have over manual testing?
+
+Selenium is easy to use since it’s primarily developed in JavaScript
+Selenium can test web applications against various browsers like Firefox, Chrome, Opera, and Safari 
+Tests can be coded in several programming languages like Java, Python, Perl, PHP, and Ruby 
+Selenium is platform-independent, meaning it can deploy on Windows, Linux, and Macintosh 
+Selenium can be integrated with tools like JUnit and TestNG for test management
+
+Manual
+It’s extremely time-consuming
+There’s a high risk of error
+It requires the presence of a tester 24/7
+Requires manual creation of logs
+Has a limited scope
+
+
+
+What advantage do you think selenium webdriver has over regular selenium?
+
+
+Selenium test script - Selenium test script is the test code written in any of the mentioned programming languages that are interpreted by the driver 
+JSON Wire Protocol - JSON Wire Protocol provides a transport mechanism to transfer data between a server and a client. JSON Wire Protocol is the industry standard for various web services
+Browser drivers - Selenium uses drivers, specific to each browser to establish a secure connection with the browser
+Browsers - Selenium WebDriver supports multiple web browsers to test and run applications on. 
+
+
+
+
+Similar to chapter 2, add selenium to your browser, and test the login prompt following the mechanism stated there. It does not have to be login for your facebook, it can be any other website. You can simply create a dummy account if you want if you do not want to test your original account.
